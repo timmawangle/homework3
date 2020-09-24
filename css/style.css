@@ -113,6 +113,10 @@ tbody tr:last-child th:first-child{
 footer{
   width:100%;
   min-height: 75px;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
   position: absolute;
   bottom: 0;
   background:#000000;
